@@ -1,7 +1,7 @@
 # health management system
 # 3 clients - Rohan,Tejas,Karan
 # Total 6 Files
-# Write a function that when executed takes as input client name 
+ 
 
 import datetime
 def gettime():
